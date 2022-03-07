@@ -1,4 +1,4 @@
-### Hey!! I'm Emily :) Lovely to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=emilyphan0085.emilyphan0085)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngoc-phan-emily)
+### Hey!! I'm Emily :) Lovely to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=emilyphan0085.emilyphan0085) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngoc-phan-emily)
 
 I am a Computer Programmer graduate from Algonquin College (Ottawa) with a passion for backend development and utilizing technology in improving social justice! 
 
