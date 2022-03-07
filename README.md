@@ -10,7 +10,7 @@ I am a Computer Programmer graduate from Algonquin College (Ottawa) with a passi
 - Database: MySQL, PostgreSQL, Oracle
 - Servers: Apache Tomcat
 - Tools: Eclipse IDE, Git, JIRA, NetBeans IDE, Docker, JUnit, Putty, Maven, Visual Studio Code
-- Methodologies: Object-Oriented Programming (OOP), Agile Software Development, Scrum.
+- Methodologies: Object-Oriented Programming (OOP), Agile Software Development, Scrum
 
 **What I'm up to?** <img align="top" src="https://media.giphy.com/media/t5RMni2zWxBblot9mP/giphy.gif" width="150"> 
 
